@@ -60,6 +60,9 @@ li{list-style-type:none}
 	height:400px;
 	width: 100%;
 	background-image:url(background1.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
 }
 .foot{
 	height: 1000px;
