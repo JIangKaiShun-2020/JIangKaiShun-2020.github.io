@@ -75,3 +75,41 @@ li{list-style-type:none}
 .foot{
 	height: 1000px;
 }
+.show{
+	height: 400px;
+	width: 100%;
+}
+.pic-show{
+	margin-top: 60px;
+	margin-left: 20px;
+	width: 540px;
+	padding: 8px 8px 8px 8px;
+	background-color: white;
+	transform: rotate(-10deg);
+	transition-property: all;
+	transition-duration: 0.8s;
+	border:2px solid #e4e4e4;
+	border-radius:25px;
+}
+
+.pic-show:hover{
+	transform: rotate(0deg);
+	box-shadow: 10px 10px 10px 0px gray;
+}
+.pic-show2{
+	margin-top: 60px;
+	margin-left: 200px;
+	width: 540px;
+	padding: 8px 8px 8px 8px;
+	background-color: white;
+	transform: rotate(10deg);
+	transition-property: all;
+	transition-duration: 0.8s;
+	border:2px solid #e4e4e4;
+	border-radius:25px;
+}
+
+.pic-show2:hover{
+	transform: rotate(0deg);
+	box-shadow: 10px 10px 10px 0px gray;
+}
