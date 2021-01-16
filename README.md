@@ -1,2 +1,2 @@
-# JIangKaiShun-2020.github.io
+# JIangKaiShun-2020
 个人博客
