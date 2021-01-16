@@ -11,13 +11,21 @@
 	width: 80%;
 	height: 50px;
 	margin: 0px auto;
+	display: flex;
+	justify-content: space-between;
 }
-#toptext{
+#toptext1{
 	color: white;
 	font-size: 30px;
 	position: relative;
 	left: 0px;
 	top:4px;
+}
+#toptext2{
+	color: white;
+	font-size: 12px;
+	position: relative;
+	top:10px;
 }
 .header{
 	height: 80px;
