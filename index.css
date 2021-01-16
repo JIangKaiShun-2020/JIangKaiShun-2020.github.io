@@ -74,6 +74,8 @@ li{list-style-type:none}
 }
 .foot{
 	height: 1000px;
+	display: flex;
+	justify-content: space-between;
 }
 .show{
 	height: 400px;
@@ -112,7 +114,4 @@ li{list-style-type:none}
 .pic-show2:hover{
 	transform: rotate(0deg);
 	box-shadow: 10px 10px 10px 0px gray;
-}
-body{
-	 min-width: 1200px;
 }
